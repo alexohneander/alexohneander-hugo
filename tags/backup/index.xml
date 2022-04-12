@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>backup on Alexohneander</title>
+    <link>https://alexohneander.de/tags/backup/</link>
+    <description>Recent content in backup on Alexohneander</description>
+    <image>
+      <url>https://alexohneander.de/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alexohneander.de/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 03 Mar 2021 19:20:27 +0200</lastBuildDate><atom:link href="https://alexohneander.de/tags/backup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backup MySQL Databases in Kubernetes</title>
+      <link>https://alexohneander.de/posts/backup-mysql-databases-in-kubernetes/</link>
+      <pubDate>Wed, 03 Mar 2021 19:20:27 +0200</pubDate>
+      
+      <guid>https://alexohneander.de/posts/backup-mysql-databases-in-kubernetes/</guid>
+      <description>In this post, we will show you how to create a MySQL server backup using Kubernetes CronJobs.
+In our case, we do not have a managed MySQL server. But we want to backup it to our NAS, so that we have a backup in case of emergency. For this we first build a container that can execute our tasks, because we will certainly need several tasks to backup our cluster.</description>
+    </item>
+    
+  </channel>
+</rss>

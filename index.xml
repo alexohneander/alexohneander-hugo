@@ -12,12 +12,34 @@
     <lastBuildDate>Fri, 21 Jan 2022 19:20:27 +0200</lastBuildDate><atom:link href="https://alexohneander.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baremetal CNI Setup with Cilium</title>
-      <link>https://alexohneander.de/posts/my-first-post/</link>
+      <link>https://alexohneander.de/posts/baremetal-cni-setup-with-cilium/</link>
       <pubDate>Fri, 21 Jan 2022 19:20:27 +0200</pubDate>
       
-      <guid>https://alexohneander.de/posts/my-first-post/</guid>
+      <guid>https://alexohneander.de/posts/baremetal-cni-setup-with-cilium/</guid>
       <description>In a freshly set up Kubernetes cluster, we need a so-called CNI. This CNI is not always present after installation.
 What is a Container Network Interface (CNI)? CNI is a network framework that allows the dynamic configuration of networking resources through a group of Go-written specifications and libraries. The specification mentioned for the plugin outlines an interface that would configure the network, provisioning the IP addresses, and mantain multi-host connectivity.</description>
+    </item>
+    
+    <item>
+      <title>Site to Site VPN for Google Kubernetes Engine</title>
+      <link>https://alexohneander.de/posts/site-to-site-vpn-for-google-kubernetes-engine/</link>
+      <pubDate>Thu, 06 May 2021 19:20:27 +0200</pubDate>
+      
+      <guid>https://alexohneander.de/posts/site-to-site-vpn-for-google-kubernetes-engine/</guid>
+      <description>In this tutorial I will try to explain you briefly and concisely how you can set up a site-to-site VPN for the Google Cloud Network.
+Prerequisites We need 2 virtual machines. The first one on the side of our office and the other one on the side of Google.
+Setup OpenVPN Clients Site-to-Site Client Office Side We need to install OpenVPN, we do it as follows:
+apt install openvpn -y After that we add our OpenVPN configuration under this path /etc/openvpn/s2s.</description>
+    </item>
+    
+    <item>
+      <title>Backup MySQL Databases in Kubernetes</title>
+      <link>https://alexohneander.de/posts/backup-mysql-databases-in-kubernetes/</link>
+      <pubDate>Wed, 03 Mar 2021 19:20:27 +0200</pubDate>
+      
+      <guid>https://alexohneander.de/posts/backup-mysql-databases-in-kubernetes/</guid>
+      <description>In this post, we will show you how to create a MySQL server backup using Kubernetes CronJobs.
+In our case, we do not have a managed MySQL server. But we want to backup it to our NAS, so that we have a backup in case of emergency. For this we first build a container that can execute our tasks, because we will certainly need several tasks to backup our cluster.</description>
     </item>
     
     <item>
