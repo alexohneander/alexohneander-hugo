@@ -12,6 +12,9 @@ buildExpired = false
 disableXML = true
 minifyOutput = true
 
+[outputs]
+home = [ "JSON" ]
+
 [params]
 env = "production"
 title = "Alexohneander"
