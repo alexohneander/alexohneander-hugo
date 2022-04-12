@@ -13,7 +13,7 @@ disableXML = true
 minifyOutput = true
 
 [outputs]
-home = [ "JSON" ]
+home = [ "HTML", "JSON" ]
 
 [params]
 env = "production"
