@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://alexohneander.github.io/alexohneander-hugo/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/baremetal/</loc>
+    <loc>https://alexohneander.github.io/alexohneander-hugo/tags/baremetal/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/my-first-post/</loc>
+    <loc>https://alexohneander.github.io/alexohneander-hugo/posts/my-first-post/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/cni/</loc>
+    <loc>https://alexohneander.github.io/alexohneander-hugo/tags/cni/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/kubernetes/</loc>
+    <loc>https://alexohneander.github.io/alexohneander-hugo/tags/kubernetes/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>https://alexohneander.github.io/alexohneander-hugo/posts/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://alexohneander.github.io/alexohneander-hugo/tags/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://alexohneander.github.io/alexohneander-hugo/categories/</loc>
   </url><url>
-    <loc>https://examplesite.com/search/</loc>
+    <loc>https://alexohneander.github.io/alexohneander-hugo/search/</loc>
   </url>
 </urlset>
