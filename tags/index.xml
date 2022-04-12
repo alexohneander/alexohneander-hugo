@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Alexohneander</title>
+    <link>https://examplesite.com/tags/</link>
+    <description>Recent content in Tags on Alexohneander</description>
+    <image>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 21 Jan 2022 19:20:27 +0200</lastBuildDate><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>baremetal</title>
+      <link>https://examplesite.com/tags/baremetal/</link>
+      <pubDate>Fri, 21 Jan 2022 19:20:27 +0200</pubDate>
+      
+      <guid>https://examplesite.com/tags/baremetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cni</title>
+      <link>https://examplesite.com/tags/cni/</link>
+      <pubDate>Fri, 21 Jan 2022 19:20:27 +0200</pubDate>
+      
+      <guid>https://examplesite.com/tags/cni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://examplesite.com/tags/kubernetes/</link>
+      <pubDate>Fri, 21 Jan 2022 19:20:27 +0200</pubDate>
+      
+      <guid>https://examplesite.com/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
