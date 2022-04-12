@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alexohneander.github.io/alexohneander-hugo/</loc>
+    <loc>https://alexohneander.de/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://alexohneander.github.io/alexohneander-hugo/tags/baremetal/</loc>
+    <loc>https://alexohneander.de/tags/baremetal/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://alexohneander.github.io/alexohneander-hugo/posts/my-first-post/</loc>
+    <loc>https://alexohneander.de/posts/my-first-post/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://alexohneander.github.io/alexohneander-hugo/tags/cni/</loc>
+    <loc>https://alexohneander.de/tags/cni/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://alexohneander.github.io/alexohneander-hugo/tags/kubernetes/</loc>
+    <loc>https://alexohneander.de/tags/kubernetes/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://alexohneander.github.io/alexohneander-hugo/posts/</loc>
+    <loc>https://alexohneander.de/posts/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://alexohneander.github.io/alexohneander-hugo/tags/</loc>
+    <loc>https://alexohneander.de/tags/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://alexohneander.github.io/alexohneander-hugo/categories/</loc>
+    <loc>https://alexohneander.de/categories/</loc>
   </url><url>
-    <loc>https://alexohneander.github.io/alexohneander-hugo/search/</loc>
+    <loc>https://alexohneander.de/search/</loc>
   </url>
 </urlset>
