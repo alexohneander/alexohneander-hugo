@@ -20,6 +20,17 @@
 What is a Container Network Interface (CNI)? CNI is a network framework that allows the dynamic configuration of networking resources through a group of Go-written specifications and libraries. The specification mentioned for the plugin outlines an interface that would configure the network, provisioning the IP addresses, and mantain multi-host connectivity.</description>
     </item>
     
+    <item>
+      <title>Erfahrung</title>
+      <link>https://alexohneander.de/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexohneander.de/experience/</guid>
+      <description>DevOps Engineer, deineApotheke seit 2020
+„deine Apotheke“ unterstützt die Apotheken in deiner Nachbarschaft und ebnet dir den Weg zu den Apotheken-Services: Über unsere App kannst du deine Apotheke auswählen und dort Medikamente, auch mit Rezept, vorbestellen.
+ Bereitstellung diverser Services (u.A. Backend APIs, MariaDB Cluster, NATs, Redis) Konzeption und Betrieb Kubernetes Cluster (3 Standorte) Verwaltung automatisierter Pipelines via Bitbucket Pipelines (Continous integration) IT-Administration für 6 Personen (SysOps)  DevOps Engineer, Amamed seit 2020</description>
+    </item>
+    
     
   </channel>
 </rss>
