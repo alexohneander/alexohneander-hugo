@@ -109,25 +109,19 @@ tocopen = false
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
+identifier = "experience"
+name = "Erfahrung"
+url = "/experience/"
+weight = 10
+
+[[menu.main]]
 identifier = "search"
 name = "Suche"
 url = "/search/"
-weight = 10
+weight = 20
 
 [[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
-weight = 20
-
-[[menu.main]]
-identifier = "experience"
-name = "Erfahrung"
-url = "/experience/"
 weight = 30
-
-# [[menu.main]]
-# identifier = "example"
-# name = "example.org"
-# url = "https://example.org"
-# weight = 30
