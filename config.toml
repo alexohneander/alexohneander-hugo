@@ -1,4 +1,4 @@
-baseURL = "https://alexohneander.github.io/alexohneander-hugo/"
+baseURL = "https://alexohneander.de"
 title = "Alexohneander"
 paginate = 5
 theme = "PaperMod"
