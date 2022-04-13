@@ -128,3 +128,8 @@ identifier = "tags"
 name = "Tags"
 url = "/tags/"
 weight = 30
+
+[module]
+[[module.mounts]]
+  source = 'assets'
+  target = 'assets'
