@@ -13,19 +13,25 @@ layout: "page"
  - Verwaltung automatisierter Pipelines via Bitbucket Pipelines (Continous integration)
  - IT-Administration für 6 Personen (SysOps)
 
+[Produkt Webseite](https://deine-apotheke.com/)
+
 ### DevOps Engineer, Amamed
 **seit 2020**
 
-Für Ihre Apotheke genau das Richtige! amamed ist die einzige digitale Lösung im Markt, bei der Ihre Apotheke im Mittelpunkt steht und mit der Sie online vollumfänglich, sicher und flexibel aufgestellt sind.
+Für Ihre Apotheke genau das Richtige! amamed ist die einzige digitale Lösung am Markt, bei der Ihre Apotheke im Mittelpunkt steht und mit der Sie online vollumfänglich, sicher und flexibel aufgestellt sind.
 
  - Bereitstellung diverser Services (u.A. Reverse Proxys, Datenbanken, Load Balancers)
  - Betrieb Docker Swarm Cluster
 
+[Produkt Webseite](https://www.amamed.de/)
+
  ### Fullstack .Net Developer, prointernet
  **bis 2019**
- 
+
  Agentur für Internet und Design 1998 gegründet, etabliert in Kastellaun im Hunsrück, weltweit tätig und im Internet zu Hause. Ein Team aus Designern, Entwicklern und Beratern, die lieben was sie tun.
 
   - Entwicklung von Web-Applikationen (C#, Dotnet, JS)
   - Gestaltung von Webseiten (Composite C1)
+
+[Firma Webseite](https://www.prointernet.de/)
 

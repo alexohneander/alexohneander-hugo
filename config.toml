@@ -50,14 +50,14 @@ tocopen = false
 #   icon = "/apple-touch-icon.png"
   iconHeight = 35
 
-  [params.profileMode]
-  enabled = false
-  title = "ExampleSite"
-  subtitle = "This is subtitle"
-  imageUrl = "<img location>"
-  imageWidth = 120
-  imageHeight = 120
-  imageTitle = "my image"
+  # [params.profileMode]
+  # enabled = false
+  # title = "ExampleSite"
+  # subtitle = "This is subtitle"
+  # imageUrl = "<img location>"
+  # imageWidth = 120
+  # imageHeight = 120
+  # imageTitle = "my image"
 
     [[params.profileMode.buttons]]
     name = "Posts"
@@ -68,20 +68,26 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi 👋"
-  Content = "Ich bin DevOps Architekt und Software Entwickler. Zurzeit arbeite ich an deine Apotheke und Amamed. Ich unterstütze Entwickler:innen beim Aufbau eines schnelleren Webs und unterrichte über Webentwicklung, Kubernetes, Netzwerksicherheit und mehr."
+  Title = "Moin 👋"
+  Content = "Ich bin DevOps/Network Architekt und Software Entwickler. Zurzeit arbeite ich an deine Apotheke und Amamed. Ich unterstütze Entwickler:innen beim Aufbau eines schnelleren Webs und unterrichte über Webentwicklung, Kubernetes, Netzwerksicherheit und mehr."
 
   [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/alexohneander"
+  name = "email"
+  url = "mailto:moin@wellnitz-alex.de"
 
-#   [[params.socialIcons]]
-#   name = "stackoverflow"
-#   url = "https://stackoverflow.com"
+  [[params.socialIcons]]
+  name = "xing"
+  url = "https://www.xing.com/profile/Alex_Wellnitz/"
+
+  [[params.socialIcons]]
+  name = "dev"
+  url = "https://dev.to/n00d13"
 
   [[params.socialIcons]]
   name = "github"
   url = "https://github.com/alexohneander"
+
+
 
 # [params.analytics.google]
 # SiteVerificationTag = "XYZabc"
@@ -98,7 +104,7 @@ tocopen = false
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/<path_to_repo>/content"
+  URL = "https://github.com/alexohneander/alexohneander-hugo/tree/main/content"
   Text = "Suggest Changes"
   appendFilePath = true
 
