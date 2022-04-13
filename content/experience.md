@@ -22,6 +22,8 @@ Für Ihre Apotheke genau das Richtige! amamed ist die einzige digitale Lösung i
  - Betrieb Docker Swarm Cluster
 
  ### Fullstack .Net Developer, prointernet
+ **bis 2019**
+ 
  Agentur für Internet und Design 1998 gegründet, etabliert in Kastellaun im Hunsrück, weltweit tätig und im Internet zu Hause. Ein Team aus Designern, Entwicklern und Beratern, die lieben was sie tun.
 
   - Entwicklung von Web-Applikationen (C#, Dotnet, JS)

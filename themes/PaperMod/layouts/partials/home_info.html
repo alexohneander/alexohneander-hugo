@@ -1,6 +1,9 @@
 {{- with site.Params.homeInfoParams }}
 <article class="first-entry home-info">
-    <img src="/alex-wellnitz-free.png" width="150px" height="150px" class="profile-pic" alt="Alex Wellnitz" />
+    {{ $image := resources.Get "/images/alex-wellnitz-free.png" }}
+    {{ $image = $image.Resize "150x150 webp q90" }}
+    
+    <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="profile-pic" alt="Alex Wellnitz">    
     <header class="entry-header">
         <h1>{{ .Title | markdownify }}</h1>
     </header>
