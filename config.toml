@@ -18,10 +18,10 @@ home = [ "HTML", "JSON" ]
 [params]
 env = "production"
 title = "Alexohneander"
-description = "ExampleSite description"
-keywords = [ "Blog", "Portfolio", "PaperMod" ]
+description = "Ich bin Alex, DevOps/Network Architekt und Software Entwickler. Zurzeit arbeite ich an deine Apotheke und Amamed."
+keywords = [ "Blog", "Portfolio", "Kubernetes", "Software", "DevOps", "Network", "Architekt", "Entwickler", "Apotheke", "Amamed" ]
 author = "Alex Wellnitz"
-images = [ "<link or path of image for opengraph, twitter-cards>" ]
+# images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
@@ -69,7 +69,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Moin 👋"
-  Content = "Ich bin Alex, DevOps/Network Architekt und Software Entwickler. Zurzeit arbeite ich an deine Apotheke und Amamed. Ich unterstütze Entwickler:innen beim Aufbau eines schnelleren Webs und unterrichte über Webentwicklung, Kubernetes, Netzwerksicherheit und mehr."
+  Content = "Ich bin Alex, DevOps/Network Architekt und Software Entwickler. Zurzeit arbeite ich an deine Apotheke und Amamed. Ich unterstütze Entwickler:innen beim Aufbau eines schnelleren Webs und unterrichte über Webentwicklung, Kubernetes, Netzwerksicherheit und mehr.\n\n"
 
   [[params.socialIcons]]
   name = "email"
@@ -122,22 +122,28 @@ tocopen = false
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
+identifier = "index"
+name = "Über Mich"
+url = "/"
+weight = 10
+
+[[menu.main]]
 identifier = "experience"
 name = "Erfahrung"
 url = "/experience/"
-weight = 10
+weight = 20
 
 [[menu.main]]
 identifier = "search"
 name = "Suche"
 url = "/search/"
-weight = 20
+weight = 30
 
 [[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
-weight = 30
+weight = 40
 
 [module]
 [[module.mounts]]
