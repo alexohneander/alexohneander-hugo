@@ -2,7 +2,7 @@
 title: Why Docker isn't always a good idea Part 1
 draft: false
 date: 2022-09-15T15:00:00+02:00
-tags: docker, network, haproxy
+tags: ["docker", "network", "haproxy"]
 ---
 
 To briefly explain the situation:
