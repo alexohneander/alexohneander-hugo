@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>haproxy on Alexohneander</title>
+    <link>https://alexohneander.de/tags/haproxy/</link>
+    <description>Recent content in haproxy on Alexohneander</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Sep 2022 15:00:00 +0200</lastBuildDate><atom:link href="https://alexohneander.de/tags/haproxy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Docker isn&#39;t always a good idea Part 1</title>
+      <link>https://alexohneander.de/posts/why-docker-isnt-always-a-good-idea/</link>
+      <pubDate>Thu, 15 Sep 2022 15:00:00 +0200</pubDate>
+      
+      <guid>https://alexohneander.de/posts/why-docker-isnt-always-a-good-idea/</guid>
+      <description>To briefly explain the situation: We have a HAProxy running on a Debian server as a Docker container. This is the entrance node to a Docker Swarm cluster.
+Now, in the last few days, there have been several small outages of the websites running in the Docker Swarm cluster. After getting an overview, we noticed that no new connections can be established.
+As soon as we restarted the HAProxy, everything went back to normal.</description>
+    </item>
+    
+  </channel>
+</rss>

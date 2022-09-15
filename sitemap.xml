@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alexohneander.de/</loc>
-    <lastmod>2022-01-21T19:20:27+02:00</lastmod>
+    <lastmod>2022-09-15T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://alexohneander.de/tags/docker/</loc>
+    <lastmod>2022-09-15T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://alexohneander.de/tags/haproxy/</loc>
+    <lastmod>2022-09-15T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://alexohneander.de/tags/network/</loc>
+    <lastmod>2022-09-15T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://alexohneander.de/posts/</loc>
+    <lastmod>2022-09-15T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://alexohneander.de/tags/</loc>
+    <lastmod>2022-09-15T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://alexohneander.de/posts/why-docker-isnt-always-a-good-idea/</loc>
+    <lastmod>2022-09-15T15:00:00+02:00</lastmod>
   </url><url>
     <loc>https://alexohneander.de/tags/baremetal/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
@@ -15,12 +33,6 @@
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
     <loc>https://alexohneander.de/tags/kubernetes/</loc>
-    <lastmod>2022-01-21T19:20:27+02:00</lastmod>
-  </url><url>
-    <loc>https://alexohneander.de/posts/</loc>
-    <lastmod>2022-01-21T19:20:27+02:00</lastmod>
-  </url><url>
-    <loc>https://alexohneander.de/tags/</loc>
     <lastmod>2022-01-21T19:20:27+02:00</lastmod>
   </url><url>
     <loc>https://alexohneander.de/tags/google/</loc>
@@ -42,9 +54,6 @@
     <lastmod>2021-03-03T19:20:27+02:00</lastmod>
   </url><url>
     <loc>https://alexohneander.de/tags/cronjob/</loc>
-    <lastmod>2021-03-03T19:20:27+02:00</lastmod>
-  </url><url>
-    <loc>https://alexohneander.de/tags/docker/</loc>
     <lastmod>2021-03-03T19:20:27+02:00</lastmod>
   </url><url>
     <loc>https://alexohneander.de/categories/</loc>
