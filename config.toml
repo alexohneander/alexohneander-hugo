@@ -17,8 +17,8 @@ home = [ "HTML", "JSON" ]
 
 [params]
 env = "production"
-title = "Alexohneander"
-description = "Ich bin Alex, DevOps/Network Architekt und Software Entwickler. Zurzeit arbeite ich an deine Apotheke und Amamed."
+title = "Alex Wellnitz"
+description = "I'm Alex, DevOps/Network architect and software developer. I'm currently working on deineApotheke and Amamed."
 keywords = [ "Blog", "Portfolio", "Kubernetes", "Software", "DevOps", "Network", "Architekt", "Entwickler", "Apotheke", "Amamed" ]
 author = "Alex Wellnitz"
 # images = [ "<link or path of image for opengraph, twitter-cards>" ]
@@ -69,7 +69,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Moin 👋"
-  Content = "Ich bin Alex, DevOps/Network Architekt und Software Entwickler. Zurzeit arbeite ich an deine Apotheke und Amamed. Ich unterstütze Entwickler:innen beim Aufbau eines schnelleren Webs und unterrichte über Webentwicklung, Kubernetes, Netzwerksicherheit und mehr.\n\n"
+  Content = "I'm Alex, DevOps/Network architect and software developer. I'm currently working on deineApotheke and Amamed. I help developers build a faster web and teach about web development, Kubernetes, network security and more.\n\n"
 
   [[params.socialIcons]]
   name = "email"
