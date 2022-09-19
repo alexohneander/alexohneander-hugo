@@ -17,7 +17,7 @@ home = [ "HTML", "JSON" ]
 
 [params]
 env = "production"
-title = "Alex Wellnitz"
+title = "Alexohneander"
 description = "I'm Alex, DevOps/Network architect and software developer. I'm currently working on deineApotheke and Amamed."
 keywords = [ "Blog", "Portfolio", "Kubernetes", "Software", "DevOps", "Network", "Architekt", "Entwickler", "Apotheke", "Amamed" ]
 author = "Alex Wellnitz"
