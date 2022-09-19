@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>backup on Alexohneander</title>
-    <link>https://alexohneander.de/tags/backup/</link>
-    <description>Recent content in backup on Alexohneander</description>
+    <title>linux on Alexohneander</title>
+    <link>https://alexohneander.de/tags/linux/</link>
+    <description>Recent content in linux on Alexohneander</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Sep 2022 09:20:27 +0200</lastBuildDate><atom:link href="https://alexohneander.de/tags/backup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Sep 2022 09:20:27 +0200</lastBuildDate><atom:link href="https://alexohneander.de/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing Backup Scripts with Borg</title>
       <link>https://alexohneander.de/posts/writing-backup-scripts-with-borg/</link>
@@ -15,16 +15,6 @@
       <description>Since we all know that the first rule is &amp;ldquo;no backup, no pity&amp;rdquo;, I&amp;rsquo;ll show you how you can use Borg to back up your important data in an encrypted way with relative ease.
 If you do not want to use a second computer, but an external hard drive, you can adjust this later in the script and ignore the points in the instructions for the second computer.
 Requirements 2 Linux Computers Borg SSH Storage More than 5 brain cells Installation First we need to install borg on both computers so that we can back up on one and save on the other.</description>
-    </item>
-    
-    <item>
-      <title>Backup MySQL Databases in Kubernetes</title>
-      <link>https://alexohneander.de/posts/backup-mysql-databases-in-kubernetes/</link>
-      <pubDate>Wed, 03 Mar 2021 19:20:27 +0200</pubDate>
-      
-      <guid>https://alexohneander.de/posts/backup-mysql-databases-in-kubernetes/</guid>
-      <description>In this post, we will show you how to create a MySQL server backup using Kubernetes CronJobs.
-In our case, we do not have a managed MySQL server. But we want to backup it to our NAS, so that we have a backup in case of emergency. For this we first build a container that can execute our tasks, because we will certainly need several tasks to backup our cluster.</description>
     </item>
     
   </channel>

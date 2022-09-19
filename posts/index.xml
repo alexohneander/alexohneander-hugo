@@ -5,7 +5,18 @@
     <link>https://alexohneander.de/posts/</link>
     <description>Recent content in Posts on Alexohneander</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Sep 2022 15:00:00 +0200</lastBuildDate><atom:link href="https://alexohneander.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Sep 2022 09:20:27 +0200</lastBuildDate><atom:link href="https://alexohneander.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Backup Scripts with Borg</title>
+      <link>https://alexohneander.de/posts/writing-backup-scripts-with-borg/</link>
+      <pubDate>Mon, 19 Sep 2022 09:20:27 +0200</pubDate>
+      
+      <guid>https://alexohneander.de/posts/writing-backup-scripts-with-borg/</guid>
+      <description>Since we all know that the first rule is &amp;ldquo;no backup, no pity&amp;rdquo;, I&amp;rsquo;ll show you how you can use Borg to back up your important data in an encrypted way with relative ease.
+If you do not want to use a second computer, but an external hard drive, you can adjust this later in the script and ignore the points in the instructions for the second computer.
+Requirements 2 Linux Computers Borg SSH Storage More than 5 brain cells Installation First we need to install borg on both computers so that we can back up on one and save on the other.</description>
+    </item>
+    
     <item>
       <title>Why Docker isn&#39;t always a good idea Part 1</title>
       <link>https://alexohneander.de/posts/why-docker-isnt-always-a-good-idea/</link>
