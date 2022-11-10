@@ -82,6 +82,11 @@ tocopen = false
   [[params.socialIcons]]
   name = "dev"
   url = "https://dev.to/n00d13"
+  
+  [[params.socialIcons]]
+  name = "mastodon"
+  url = "https://mastodon.dev-null.rocks/@alexohneander"
+  rel = "me"
 
   [[params.socialIcons]]
   name = "hackthebox"
