@@ -3,6 +3,30 @@ title: "Erfahrung"
 layout: "page"
 ---
 
+## Arbeitgeber
+### DevOps Engineer, Apozin GmbH
+**seit 2020**
+
+Apozin verwandelt Visionen in Wettbewerbsvorteil. Unser Team aus Apothekern, PTA’s, Grafikern, Webdesignern, Vertriebsfachleuten, Marketingspezialisten und Programmierern realisieren ganzheitliche Konzepte, die wir für Kunden ständig weiterentwickeln und verbessern.
+
+- Betrieb und Konzeption von Kubernetes Cluster an mehreren Standorten
+- Konzeption und Realsierung von Backup Strategien
+- Bereitstellung diverser Dienste (u.A. HAProxy, MariaDB, MongoDB, Elasticsearch, NGINX)
+- Konzeption und Betrieb von ganzheitlichen Monitoring Lösungen (Zabbix, Grafana, Prometheus, Graylog)
+
+### Fullstack .Net Developer, prointernet
+**bis 2019**
+
+Agentur für Internet und Design 1998 gegründet, etabliert in Kastellaun im Hunsrück, weltweit tätig und im Internet zu Hause. Ein Team aus Designern, Entwicklern und Beratern, die lieben was sie tun.
+
+- Entwicklung von Web-Applikationen (C#, Dotnet, JS)
+- Gestaltung von Webseiten (Composite C1)
+
+[Firma Webseite](https://www.prointernet.de/)
+
+
+## Projekte
+
 ### DevOps Engineer, Amamed
 **seit 2020**
 
@@ -22,14 +46,3 @@ Für Ihre Apotheke genau das Richtige! amamed ist die einzige digitale Lösung a
  - Konzeption und Betrieb Kubernetes Cluster (3 Standorte)
  - Verwaltung automatisierter Pipelines via Bitbucket Pipelines (Continous integration)
  - IT-Administration für 6 Personen (SysOps)
-
- ### Fullstack .Net Developer, prointernet
- **bis 2019**
-
- Agentur für Internet und Design 1998 gegründet, etabliert in Kastellaun im Hunsrück, weltweit tätig und im Internet zu Hause. Ein Team aus Designern, Entwicklern und Beratern, die lieben was sie tun.
-
-  - Entwicklung von Web-Applikationen (C#, Dotnet, JS)
-  - Gestaltung von Webseiten (Composite C1)
-
-[Firma Webseite](https://www.prointernet.de/)
-
