@@ -13,6 +13,8 @@ Apozin verwandelt Visionen in Wettbewerbsvorteil. Unser Team aus Apothekern, PTA
 - Konzeption und Realsierung von Backup Strategien
 - Bereitstellung diverser Dienste (u.A. HAProxy, MariaDB, MongoDB, Elasticsearch, NGINX)
 - Konzeption und Betrieb von ganzheitlichen Monitoring Lösungen (Zabbix, Grafana, Prometheus, Graylog)
+- Konzeption und Einrichtung Build Pipelines mit Jenkins, Docker und FluxCD
+- Administration diverser Server auf unterschiedlichsten Umgebungen (Google Cloud, Hetzner, AWS, Digital Ocean, Hosting.de)
 
 ### Fullstack .Net Developer, prointernet
 **bis 2019**
