@@ -3,18 +3,6 @@ title: "Erfahrung"
 layout: "page"
 ---
 
-### DevOps Engineer, deineApotheke
-**seit 2020**
-
-„deine Apotheke“ unterstützt die Apotheken in deiner Nachbarschaft und ebnet dir den Weg zu den Apotheken-Services: Über unsere App kannst du deine Apotheke auswählen und dort Medikamente, auch mit Rezept, vorbestellen.
-
- - Bereitstellung diverser Services (u.A. Backend APIs, MariaDB Cluster, NATs, Redis)
- - Konzeption und Betrieb Kubernetes Cluster (3 Standorte)
- - Verwaltung automatisierter Pipelines via Bitbucket Pipelines (Continous integration)
- - IT-Administration für 6 Personen (SysOps)
-
-[Produkt Webseite](https://deine-apotheke.com/)
-
 ### DevOps Engineer, Amamed
 **seit 2020**
 
@@ -24,6 +12,16 @@ Für Ihre Apotheke genau das Richtige! amamed ist die einzige digitale Lösung a
  - Betrieb Docker Swarm Cluster
 
 [Produkt Webseite](https://www.amamed.de/)
+
+### DevOps Engineer, deineApotheke
+**bis 2021**
+
+„deine Apotheke“ unterstützt die Apotheken in deiner Nachbarschaft und ebnet dir den Weg zu den Apotheken-Services: Über unsere App kannst du deine Apotheke auswählen und dort Medikamente, auch mit Rezept, vorbestellen.
+
+ - Bereitstellung diverser Services (u.A. Backend APIs, MariaDB Cluster, NATs, Redis)
+ - Konzeption und Betrieb Kubernetes Cluster (3 Standorte)
+ - Verwaltung automatisierter Pipelines via Bitbucket Pipelines (Continous integration)
+ - IT-Administration für 6 Personen (SysOps)
 
  ### Fullstack .Net Developer, prointernet
  **bis 2019**
