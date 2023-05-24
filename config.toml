@@ -76,17 +76,12 @@ tocopen = false
   url = "mailto:moin@wellnitz-alex.de"
 
   [[params.socialIcons]]
-  name = "xing"
-  url = "https://www.xing.com/profile/Alex_Wellnitz/"
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/alex-wellnitz-66341184/"
 
   [[params.socialIcons]]
   name = "dev"
   url = "https://dev.to/n00d13"
-  
-  [[params.socialIcons]]
-  name = "mastodon"
-  url = "https://mastodon.dev-null.rocks/@alexohneander"
-  rel = "me"
 
   [[params.socialIcons]]
   name = "hackthebox"
